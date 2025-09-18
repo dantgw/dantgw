@@ -3,7 +3,6 @@ I'm an experienced Web3 developer with a passion for decentralizing the world ğŸ
 Over the years, I've had the privilege of working on several cutting-edge blockchain projects, winning multiple hackathons ğŸ† along the way. 
 I'm all about pushing the boundaries of what's possible with technology.
 
-Currently, I run a startup building Web3 games.
 
 Feel free to reach out if you want to build cool things together!
 <!---
